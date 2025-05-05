@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/clsololeveling/solo-leveling-season-3">
     <img 
-      src="https://github.com/clsololeveling/solo-leveling-season-3/blob/main/images/teto.png" 
+      src="https://github.com/clsololeveling/solo-leveling-season-3/blob/main/images/bg1.png" 
       alt="Solo Leveling Season 3" 
       width="175" 
       height="175"
@@ -21,7 +21,7 @@ Welcome to **Solo Leveling Season 3**, an ad-free anime streaming site with a mo
 
 > [!IMPORTANT]
 >
-> 1. The content that TeTo provides is not ours, nor is it hosted by us Solo Leveling Season 3. These belong to their respective owners. TeTo does not host any media files. We provide links to content available on third-party platforms.
+> 1. The content that Solo Leveling Season 3 provides is not ours, nor is it hosted by us Solo Leveling Season 3. These belong to their respective owners. Solo Leveling Season 3 does not host any media files. We provide links to content available on third-party platforms.
 
 
 
@@ -54,7 +54,7 @@ We welcome contributions! Follow these steps:
 
 ## 🙏 Acknowledgments
 
-TeTo uses data from:
+Solo Leveling Season 3 uses data from:
 
 - [Solo Leveling](https://sololevelingseason3.org) 
 - [Solo Leveling Season 3](https://sololevelingseason3.org/anime/solo-leveling-season-3/) – Provides anime metadata.
