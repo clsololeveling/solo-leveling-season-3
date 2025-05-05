@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/clsololeveling/solo-leveling-season-3">
     <img 
-      src="https://github.com/Kochou11/TeTo/blob/ea71edb56cce9f2e0b3fb5d260685b452e5cd904/images/teto.gif" 
-      alt="TeTo" 
+      src="https://github.com/clsololeveling/solo-leveling-season-3/blob/main/images/teto.png" 
+      alt="Solo Leveling Season 3" 
       width="175" 
       height="175"
       decoding="async"
@@ -62,5 +62,5 @@ TeTo uses data from:
 
 ## 📜 License
 
-This project is open-source and available under the **[MIT License](https://github.com/clsololeveling/solo-leveling-season-3/blob/main/LICENSE)**.
+This Solo Leveling Season 3 project is open-source and available under the **[MIT License](https://github.com/clsololeveling/solo-leveling-season-3/blob/main/LICENSE)**.
 
