@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kochou11/TeTo">
+  <a href="https://github.com/clsololeveling/solo-leveling-season-3">
     <img 
       src="https://github.com/Kochou11/TeTo/blob/ea71edb56cce9f2e0b3fb5d260685b452e5cd904/images/teto.gif" 
       alt="TeTo" 
@@ -11,17 +11,17 @@
   </a>
 </p>
 
-# <p align="center">TeTo:territory</p>
+# <p align="center">Solo Leveling Season 3</p>
          
 <div align="center">
 
-Welcome to **TeTo**, an ad-free anime streaming site with a modern UI. Built using **HTML, CSS, and JavaScript**, it offers a seamless experience for watching and discovering anime.
+Welcome to **Solo Leveling Season 3**, an ad-free anime streaming site with a modern UI. Built using **HTML, CSS, and JavaScript**, it offers a seamless experience for watching and discovering anime.
 
 </div>
 
 > [!IMPORTANT]
 >
-> 1. The content that TeTo provides is not ours, nor is it hosted by us. These belong to their respective owners. TeTo does not host any media files. We provide links to content available on third-party platforms.
+> 1. The content that TeTo provides is not ours, nor is it hosted by us Solo Leveling Season 3. These belong to their respective owners. TeTo does not host any media files. We provide links to content available on third-party platforms.
 
 
 
@@ -39,8 +39,8 @@ Welcome to **TeTo**, an ad-free anime streaming site with a modern UI. Built usi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/teto.git
-   cd teto
+   git clone https://github.com/clsololeveling/solo-leveling-season-3.git
+   cd solo-leveling-season-3
    ```
 2. Open `index.html` in a browser.
 
@@ -56,11 +56,11 @@ We welcome contributions! Follow these steps:
 
 TeTo uses data from:
 
-- [Consumet API](https://api.consumet.org) 
-- [Anilist API](https://anilist.gitbook.io/anilist-apiv2-docs/) – Provides anime metadata.
-- [Aniwatch API](https://github.com/ghoshRitesh12/aniwatch-api)
+- [Solo Leveling](https://sololevelingseason3.org) 
+- [Solo Leveling Season 3](https://sololevelingseason3.org/anime/solo-leveling-season-3/) – Provides anime metadata.
+- [Solo Leveling Season 2](https://sololevelingseason3.org/anime/solo-leveling-season-2/)
 
 ## 📜 License
 
-This project is open-source and available under the **[MIT License](https://github.com/Kochou11/TeTo/blob/main/LICENSE)**.
+This project is open-source and available under the **[MIT License](https://github.com/clsololeveling/solo-leveling-season-3/blob/main/LICENSE)**.
 
