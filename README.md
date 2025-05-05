@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/clsololeveling/solo-leveling-season-3">
     <img 
-      src="/clsololeveling/solo-leveling-season-3/blob/main/images/bg3.jpg" 
+      src="https://github.com/clsololeveling/solo-leveling-season-3/blob/main/images/bg3.jpg" 
       alt="Solo Leveling Season 3" 
       width="175" 
       height="175"
